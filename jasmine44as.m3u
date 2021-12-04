@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 WATCH MORE IPTV CHANNELS ON OMOHAK TV
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png" group-title="MALAYSIA",Astro Awani
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/868
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA",Astro Ria HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/11
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA",Astro Ria HD-B
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4681
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA",Astro Warna HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/10
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA",Astro Warna HD-B
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/3225
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA",astro oasis
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/175
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="MALAYSIA",Astro Rania HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4104
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MALAYSIA",Astro Aura HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4686
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="MALAYSIA",Astro Naura
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/203
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORTS",Astro SuperSport 1HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/3198
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORTS",Astro SuperSport 2 HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4094
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS",Astro SuperSport 3 HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4095
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORTS",Astro SuperSport 4 HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/166
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="SPORTS",Astro Supersport 5 HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/3200
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS",Astro Arena HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/167
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS",Astro Arena 2 HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4130
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MALAYSIA",Astro AEC HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/3292
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",Astro Cricket HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4100
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="MALAYSIA",Astro Vaanavil HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4144
+#EXTINF:-1 group-title="INDONESIA",ASTRAKHAN RU
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4545
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJIhUMH.png" group-title="INDONESIA",Astro Prima
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4559
+#EXTINF:-1 group-title="INDONESIA",Astro Naura
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4622
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nf4n7zN/a.jpg" group-title="SPORTS",Astrakhan.ru Sport HD
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4195
+#EXTINF:-1 group-title="INDIA",FASTWAY NEWS (720p)
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4264
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png" group-title="INDIA",Kasthuri TV (576p)
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4284
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="INDIA",Mastiii (576p)
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4291
+#EXTINF:-1 tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FMaster-Builders.png?w=80&h=45&fit=fit&blur=0&ixlib=js-1.2.0&s=76104478559d66ac3305d06eeeea7063" group-title="KIDS",Master Builder (Bumblebee)
+#EXTVLCOPT:http-user-agent=iptvfreenet
+http://w.nasvpn.xyz:8080/saya/saya/4380
